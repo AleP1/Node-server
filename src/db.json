@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Alejandro",
+      "email": "alejandro@gmail.com"
+    },
+    {
+      "id": "2",
+      "name": "Juan",
+      "email": "juan@gmail.com"
+    },
+    {
+      "id": "3",
+      "name": "Maria",
+      "email": "maria@gmail.com"
+    },
+    {
+      "id": "4",
+      "name": "Pedro",
+      "email": "pedro@gmail.com"
+    },
+    {
+      "id": "5",
+      "name": "Juan",
+      "email": "juan@gmail.com"
+    },
+    {
+      "id": "6",
+      "name": "Juan Carlos",
+      "email": "juan@gmail.com"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "title": "Post 1"
+    },
+    {
+      "id": "2",
+      "title": "Post 2"
+    },
+    {
+      "id": "3",
+      "title": "Post 3"
+    },
+    {
+      "id": "4",
+      "title": "Post 4"
+    },
+    {
+      "id": "5",
+      "title": "Post 5"
+    }
+  ]
+}
