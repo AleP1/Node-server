@@ -1,7 +1,7 @@
-const express = require('express')
-const path = require('path')
+import express from 'express.js'
+import path from 'path'
 
-const startServer = (options) => {
+export const startServer = (options) => {
    const {port, publicPath = 'public'} = options
    
    
@@ -17,5 +17,3 @@ const startServer = (options) => {
       console.log(`Server started on port ${port}`)
    })
 }
-
-module.exports = { startServer }
